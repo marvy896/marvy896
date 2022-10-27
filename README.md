@@ -1,10 +1,10 @@
 ### - 🔭 I’m currently working on becoming a full stack Developer
 - 🌱 I’m currently learning JavaScript, TypeScript, SQL, React and Node
 - 👯 I’m looking to collaborate on Web Applications and Game Development
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Internship projects
 - 💬 Ask me about project Collaboration with React and TypeScript
 - 📫 How to reach me: onyex896@gmail.com  and 07044887255
-- 😄 Pronouns: Hi ans I
+- 😄 Pronouns: Hi as I
 - ⚡ Fun fact: I Play the Keyboard and I love Classical Music
 
 Follow mw on Twitter 
