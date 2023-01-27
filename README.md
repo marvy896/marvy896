@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mavvyy3" target="blank"><img src="https://img.shields.io/twitter/follow/mavvyy3?logo=twitter&style=for-the-badge" alt="mavvyy3" /></a> </p>
 
-- 🔭 I’m currently working on [Building FullStack E-commerce Web](https://github.com/marvy896/HOTEL-BOOKING-APP)
+- 🔭 I’m currently working on [Building FullStack Hotel Booking App](https://github.com/marvy896/HOTEL-BOOKING-APP)
 
 - 🌱 I’m currently learning **JavaScript, NodeJs, Mysqlite3, Html, TypeScript and React**
 
